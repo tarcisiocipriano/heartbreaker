@@ -1,0 +1,9 @@
+mark,
+::selection {
+  color: #fff !important;
+  background-color: $brand-1 !important;
+}
+
+textarea {
+  resize: vertical;
+}
